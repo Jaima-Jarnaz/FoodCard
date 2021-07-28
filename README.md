@@ -1,3 +1,8 @@
+<h1>FoodCard</h1>
+This project designed with Styled Components[FoodCard React App](https://foodcard-c702c.firebaseapp.com/)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
